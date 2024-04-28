@@ -20,13 +20,19 @@ git clone https://github.com/your-username/quiz-app.git
 ```
 
 2.Navigate to the project directory:
-```cd quiz-app```
+```bash
+cd quiz-app
+```
 
 3.Install dependencies:
-```npm install```
+```bash
+npm install
+```
 
 4.Start the development server: 
-```npm run dev```
+```bash
+npm run dev
+```
 
 5.Open your browser and visit http://localhost:3000 to view the app.
 
