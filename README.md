@@ -8,6 +8,7 @@ Welcome to the Quiz App! This interactive quiz application allows users to test 
 - [🎮 Usage](#usage)
 - [✨ Features](#features)
 
+![image](https://github.com/Atharva-5/Quiz-App/assets/107418531/080594f1-a217-4d0b-8b82-b743a22cae9a)
 
 ## 🛠️ Installation
 
@@ -16,7 +17,7 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/Atharva-5/Quiz-App.git
 ```
 
 2.Navigate to the project directory:
