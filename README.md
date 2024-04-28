@@ -8,7 +8,7 @@ Welcome to the Quiz App! This interactive quiz application allows users to test 
 - [🎮 Usage](#usage)
 - [✨ Features](#features)
 
-![image](https://github.com/Atharva-5/Quiz-App/assets/107418531/080594f1-a217-4d0b-8b82-b743a22cae9a)
+![image](https://github.com/Atharva-5/Quiz-App/assets/107418531/9bb74f9b-898c-4aa6-88c0-0c7a0641b14b)
 
 ## 🛠️ Installation
 
