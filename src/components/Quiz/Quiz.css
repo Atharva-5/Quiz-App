@@ -1,0 +1,77 @@
+/* Quiz.css */
+.quiz-app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.quiz-questions {
+    margin-top: 20px;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.question h2 {
+    margin-bottom: 10px;
+}
+
+.question p {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+li.selected {
+    background-color: white;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Quiz.css */
+/* Quiz.css */
+.quiz-result {
+    position: absolute;
+    left: 50%;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.result-box {
+    margin-bottom: 10px;
+}
+
+.result-box h3 {
+    margin-top: 0;
+}
+
+.count {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Quiz.css */
+.correct {
+    background-color: lightgreen;
+}
+
+/* Quiz.css */
+/* Quiz.css */
+.correct {
+    background-color: lightgreen;
+}
